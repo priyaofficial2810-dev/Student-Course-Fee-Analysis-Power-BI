@@ -66,7 +66,8 @@ The dashboard provides insights into:
 Example:
 
 ```
-/images/dashboard.png
+
+![Dashboard](studens%20course%20details%20dashboard.png)
 ```
 
 ---
