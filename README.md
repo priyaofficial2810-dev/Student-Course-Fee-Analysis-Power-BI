@@ -67,7 +67,7 @@ Example:
 
 ```
 
-![Dashboard](studens%20course%20details%20dashboard.png)
+studens course details dashboard.png
 ```
 
 ---
