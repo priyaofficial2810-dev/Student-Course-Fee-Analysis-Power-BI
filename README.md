@@ -59,18 +59,9 @@ The dashboard provides insights into:
 
 ---
 
-## 📸 Dashboard Preview
+## 📷 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
-
-Example:
-
-```
-
-studens course details dashboard.png
-```
-
----
+![Dashboard](students%20course%20fees%20analysis/Dashboard%20picture/studens%20course%20details%20dashboard.png)
 
 ## 📁 Project Structure
 
